@@ -3,6 +3,8 @@ Fireshow server
 
 Windows server for [Fireshow](http://jesobreira.github.io/fireshow).
 
+[Download now!](https://github.com/jesobreira/fireshow-server/releases/download/1.0/Fireshow.exe)
+
 How to build
 ------------
 
